@@ -1,0 +1,4 @@
+filename = "новий_файл.txt"
+
+with open(filename, "w") as file:
+    pass
